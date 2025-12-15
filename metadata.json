@@ -1,0 +1,8 @@
+{
+  "name": "CipherChat",
+  "description": "A privacy-first, login-less, end-to-end encrypted chat application for LAN and Internet communication.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
